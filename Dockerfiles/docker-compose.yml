@@ -23,7 +23,7 @@ services:
     volumes:
       - './db/data:/var/lib/mysql'
     environment:
-      - MYSQL_ROOT_PASSWORD=Topobase_2023
+      - MYSQL_ROOT_PASSWORD=xxxxxxxxx
       - MYSQL_DATABASE=bilderkennung
       - MYSQL_USER=user
-      - MYSQL_PASSWORD=Topobase_2023
+      - MYSQL_PASSWORD=xxxxxxxxx
