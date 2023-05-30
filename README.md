@@ -8,7 +8,7 @@ Classification of waste images using Convolutional Neural Network.
  - Kaggle-API
  - Flicker-API
  
- #2 Installier alle Bibliotheken
+ #2 Installiere alle Bibliotheken
   - Findet man im Dockerfile
  
  #3 Ausführung Docker
@@ -16,5 +16,5 @@ Classification of waste images using Convolutional Neural Network.
   - Befehl: docker-compose up
    
  #4 Programm laufen lasse
-  - json File müssen im gleichen Verzeichnis wie das auszuführende Programm sein.
+  - json-Files müssen im gleichen Verzeichnis wie das auszuführende Programm sein.
   
