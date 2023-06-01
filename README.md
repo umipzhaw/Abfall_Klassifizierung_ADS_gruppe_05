@@ -1,6 +1,12 @@
 # Abfall_Klassifizierung_ADS_gruppe_05
 Classification of waste images using Convolutional Neural Network.
 
+!!!!!Wichtig
+In der Vorschau auf Github sind nur bei folgendem Programm alle Plot/Grafiken vollstädig geladen.
+Projekt_ADS_Carbage_classification_umiker_suvi_no_docker_github.ipynb
+!!!!!!!!
+
+
 #1 Ersetze alle API-secrets
  - Im Programm "Projekt_ADS_Carbage_classification_umiker_suvi_with_docker_github.ipynb" & "Projekt_ADS_Carbage_classification_umiker_suvi_no_docker_github.ipynb"
  - Dockerfiles=conf
